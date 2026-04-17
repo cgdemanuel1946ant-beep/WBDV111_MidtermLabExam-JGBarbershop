@@ -21,4 +21,4 @@ A well organized basic structure that is functional, along with a simple design 
 # Photos of our website
 
 Home page
-![image alt]{https://github.com/cgdemanuel1946ant-beep/WBDV111_MidtermLabExam-JGBarbershop/blob/807542403e0079200aaa009cdbd22b0ad62b658c/Images/Home-Screenshot.jpg}
+![image alt](https://github.com/cgdemanuel1946ant-beep/WBDV111_MidtermLabExam-JGBarbershop/blob/807542403e0079200aaa009cdbd22b0ad62b658c/Images/Home-Screenshot.jpg)
