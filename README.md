@@ -13,11 +13,7 @@ Justin Laurence A. Soriano
 BSIT-1-Y2-3
 
 # Description
-A project that consists both HTML and CSS, To create this simple website
-
-for our chosen client
+A project that consists both HTML and CSS, To create this simple website for our chosen client
 
 # Features Implemented
-
-#  
-
+A well organized basic structure that is functional, along with a simple design and thoughtful use of color contrast, enhances both clarity and visual appeal.
