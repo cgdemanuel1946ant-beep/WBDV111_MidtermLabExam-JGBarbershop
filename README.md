@@ -20,9 +20,14 @@ A well organized basic structure that is functional, along with a simple design 
 
 # Photos of our website
 
-Home Page
+# Home Page
 ![image alt](https://github.com/cgdemanuel1946ant-beep/WBDV111_MidtermLabExam-JGBarbershop/blob/807542403e0079200aaa009cdbd22b0ad62b658c/Images/Home-Screenshot.jpg)
 
-Service Page
+# Service Page
 ![image alt](https://github.com/cgdemanuel1946ant-beep/WBDV111_MidtermLabExam-JGBarbershop/blob/9bbb6cb0dac90a4b027929736bd0f353b88ecd13/Images/Service-Screenshot.jpg)
+
+![image alt](https://github.com/cgdemanuel1946ant-beep/WBDV111_MidtermLabExam-JGBarbershop/blob/1c825f575df59a7c5ba0f7a03c2511470b8c0206/Images/Service-Content-Screenshot.jpg)
+
+![image alt](https://github.com/cgdemanuel1946ant-beep/WBDV111_MidtermLabExam-JGBarbershop/blob/1c825f575df59a7c5ba0f7a03c2511470b8c0206/Images/Service-Content-2-Screenshot.jpg))
+
 
