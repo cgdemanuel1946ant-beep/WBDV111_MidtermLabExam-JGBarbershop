@@ -30,4 +30,12 @@ A well organized basic structure that is functional, along with a simple design 
 
 ![image alt](https://github.com/cgdemanuel1946ant-beep/WBDV111_MidtermLabExam-JGBarbershop/blob/1c825f575df59a7c5ba0f7a03c2511470b8c0206/Images/Service-Content-2-Screenshot.jpg))
 
+# About Us Page
+![image alt](https://github.com/cgdemanuel1946ant-beep/WBDV111_MidtermLabExam-JGBarbershop/blob/9664ca489d1b872f7a91c1931346fe5046d15919/Images/About-Screenshot.jpg)
 
+![image alt](https://github.com/cgdemanuel1946ant-beep/WBDV111_MidtermLabExam-JGBarbershop/blob/9664ca489d1b872f7a91c1931346fe5046d15919/Images/About-Content-Screenshot.jpg)
+
+# Contact Page
+![image alt](https://github.com/cgdemanuel1946ant-beep/WBDV111_MidtermLabExam-JGBarbershop/blob/9664ca489d1b872f7a91c1931346fe5046d15919/Images/Contact-Screenshot.jpg)
+
+![image alt](https://github.com/cgdemanuel1946ant-beep/WBDV111_MidtermLabExam-JGBarbershop/blob/9664ca489d1b872f7a91c1931346fe5046d15919/Images/Contact-Content-Screenshot.jpg)
