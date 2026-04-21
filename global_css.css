@@ -12,6 +12,10 @@
     gap: clamp(15px, 5vw, 50px);
     padding: 15px 20px;
     background: black;
+
+    position: sticky;
+    top: 0;
+    z-index: 1000;
 }
 
 .navbar a {
