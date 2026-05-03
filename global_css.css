@@ -99,6 +99,16 @@
     max-width: 90%;
 }
 
+.about-content a, .contact-content a {
+    text-decoration: underline;
+    text-underline-offset: 6px;
+    color: black;
+}
+
+.about-content a:hover, .contact-content a:hover {
+    color: #ccc;
+}
+
 .home-hero {
     background-image: url(Images/Home-Background.jpg);
 }
@@ -198,16 +208,6 @@
     line-height: 1.6;
 }
 
-.about-content a {
-    text-decoration: underline;
-    text-underline-offset: 6px;
-    color: black;
-}
-
-.about-content a:hover {
-    color: #ccc;
-}
-
 .contact-hero {
     background-image: url(Images/Contact-Background.jpg);
 }
@@ -227,4 +227,4 @@
     margin-top: 10px;
     font-size: clamp(14px, 2.5vw, 18px);
     line-height: 1.6;
-}
+}  
