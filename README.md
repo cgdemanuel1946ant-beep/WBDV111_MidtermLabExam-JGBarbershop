@@ -5,7 +5,7 @@ Vincent E. Doricarion
 
 Jeof Ervyne P. Betinol
 
-De Manuel, Christian Jacob G.
+Christian Jacob G. De Manuel
 
 Justin Laurence A. Soriano
 
