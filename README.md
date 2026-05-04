@@ -3,7 +3,7 @@
 # Members:
 Vincent E. Doricarion
 
-Jeof Ervyne P. Beinol
+Jeof Ervyne P. Betinol
 
 De Manuel, Christian Jacob G.
 
