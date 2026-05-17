@@ -110,14 +110,14 @@
     margin-top: 15px;
     padding: 10px 16px;
     font-size: clamp(14px, 2vw, 16px);
-    background: black;
+    background: goldenrod;
     color: white;
     text-decoration: none;
     border-radius: 5px;
 }
 
 .home-hero a:hover {
-    color: goldenrod;
+    background-color: rgb(201, 152, 29);
 }
 
 .service-hero {
@@ -219,6 +219,45 @@
     line-height: 1.6;
 }  
 
+.contact-form{
+    background-color: rgb(236, 236, 236);
+    border-radius: 5px;
+    padding: 20px;
+
+    width: 100%;
+    max-width: 400px;
+}
+
+input, textarea{
+    border: none;
+    border-radius: 5px;
+    padding: 15px;
+    margin-bottom: 15px;
+
+    width: 100%;
+}
+
+textarea{
+    resize: none;
+}
+
+.btn{
+    color: white;
+    background-color: goldenrod;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+
+    width: 100%;
+    padding: 10px;
+
+}
+
+.btn:hover {
+    background-color: rgb(201, 152, 29);
+}
+
 .contact-content a {
     text-decoration: underline;
     text-underline-offset: 6px;
@@ -226,5 +265,11 @@
 }
 
 .contact-content a:hover {
+    color: goldenrod;
+}
+
+.success{
+    font-size: 16px !important;
+    text-align: start;
     color: goldenrod;
 }
