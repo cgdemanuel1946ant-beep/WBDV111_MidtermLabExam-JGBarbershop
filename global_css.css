@@ -26,7 +26,7 @@
 }
 
 .navbar a:hover {
-    color: #ccc;
+    color: goldenrod;
 }
 
 .navbar a.active-page {
@@ -51,7 +51,7 @@
 }
 
 .site-footer a:hover {
-    color: #ccc;
+    color: goldenrod;
 }
 
 .footer-address {
@@ -116,7 +116,7 @@
 }
 
 .home-hero a:hover {
-    color: #ccc;
+    color: goldenrod;
 }
 
 .service-hero {
@@ -225,5 +225,5 @@
 }
 
 .contact-content a:hover {
-    color: #ccc;
+    color: goldenrod;
 }
