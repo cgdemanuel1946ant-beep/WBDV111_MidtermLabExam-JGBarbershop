@@ -56,6 +56,36 @@
             </a>
         </p>
 
+        <h2>Get in touch</h2>
+        <p>
+            Need a fresh cut or have a quick question? Send us a message — we’re available daily from 7:00 AM to 6:00 PM.
+        </p>
+        <p>
+            <form id="form" class="contact-form">
+                <div>
+                    <input type="text" pattern="[A-Za-z ]+" placeholder="Name" required>
+                </div>
+
+                <div>
+                    <input type="tel" maxlength="10" pattern="[0-9]{10}" placeholder="+63" required>
+                </div>
+
+                <div>
+                    <input type="email" placeholder="Email" required>
+                </div>
+
+                <div>
+                    <textarea type="message" rows="5" placeholder="Send us your message" required></textarea>
+                </div>
+
+                <div>
+                    <button class="btn">Send</button>
+                </div>
+
+                <p id="message-success" class="success"></p>
+            </form>
+        </p>
+
     </div>
 
     <footer class="site-footer">
@@ -68,6 +98,19 @@
             </span>
         </p>
     </footer>
+
+        <script>
+            const form = document.getElementById("form");
+            const messageSuccess = document.getElementById("message-success");
+    
+            form.addEventListener("submit", function(event) {
+                event.preventDefault();
+    
+                messageSuccess.textContent = "Message sent successfully!";
+    
+                form.reset();
+            });
+        </script>
 
 </body>
 
