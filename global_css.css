@@ -75,8 +75,6 @@
     align-items: center;
     text-align: center;
     background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
 }
 
 .home-hero::before,
@@ -89,6 +87,13 @@
     background: rgba(0, 0, 0, 0.87);
 }
 
+.logo {
+    position: relative;
+    z-index: 1;
+    width: 30%;
+    height: auto;
+}
+
 .home-hero h1,
 .service-hero h1,
 .about-hero h1,
@@ -98,7 +103,6 @@
     color: white;
     font-style: italic;
     font-size: clamp(24px, 5vw, 40px);
-    max-width: 90%;
 }
 
 .home-hero {
