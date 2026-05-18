@@ -124,7 +124,7 @@
     background-image: url(Images/Service-Background.jpg);
 }
 
-.service-hero p {
+.service-hero p, .about-hero p {
     position: relative;
     z-index: 1;
     color: white;
