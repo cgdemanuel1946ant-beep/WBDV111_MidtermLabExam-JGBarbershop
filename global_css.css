@@ -35,19 +35,6 @@
     text-underline-offset: 6px;
 }
 
-.navbar-logo-link {
-    position: absolute;
-    left: 20px;
-    top: 50%;
-    transform: translateY(-50%);
-}
-
-.navbar-logo {
-    max-height: 50px;
-    width: auto;
-    display: block;
-}
-
 
 .site-footer {
     display: flex;
